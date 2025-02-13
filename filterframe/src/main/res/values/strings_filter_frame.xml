@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="text_category">Category</string>
+    <string name="ratio">Ratio</string>
+    <string name="filter">Filter</string>
+    <string name="text_others">Others</string>
+    <string name="text_number_of_photos">Number of photos</string>
+    <string name="msg_frame_filter_no_data">Oops! No frames found. Try these below to find some surprises!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="text_category">Chủ đề</string>
+    <string name="ratio">Tỉ lệ</string>
+    <string name="filter">Bộ lọc</string>
+    <string name="text_others">Khác</string>
+    <string name="text_number_of_photos">Số lượng ảnh</string>
+    <string name="msg_frame_filter_no_data">Ồ! Không tìm thấy khung nào. Hãy thử những điều dưới đây để tìm một số điều bất ngờ!</string>
+</resources>

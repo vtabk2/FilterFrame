@@ -1,0 +1,28 @@
+[versions]
+agp = "8.8.0"
+appcompat = "1.7.0"
+flexbox = "3.0.0"
+fragmentKtx = "1.8.6"
+kotlin = "2.0.0"
+coreKtx = "1.13.1"
+lifecycleExtensions = "2.2.0"
+activityCompose = "1.9.2"
+lottie = "6.6.2"
+material = "1.12.0"
+reviewKtx = "2.0.2"
+
+[libraries]
+androidx-activity-ktx = { module = "androidx.activity:activity-ktx", version.ref = "activityCompose" }
+androidx-appcompat = { module = "androidx.appcompat:appcompat", version.ref = "appcompat" }
+androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+androidx-fragment-ktx = { module = "androidx.fragment:fragment-ktx", version.ref = "fragmentKtx" }
+androidx-lifecycle-extensions = { module = "androidx.lifecycle:lifecycle-extensions", version.ref = "lifecycleExtensions" }
+flexbox = { module = "com.google.android.flexbox:flexbox", version.ref = "flexbox" }
+lottie = { module = "com.airbnb.android:lottie", version.ref = "lottie" }
+material = { module = "com.google.android.material:material", version.ref = "material" }
+review-ktx = { module = "com.google.android.play:review-ktx", version.ref = "reviewKtx" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+
