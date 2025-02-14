@@ -4,24 +4,17 @@ import android.content.Context
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import androidx.constraintlayout.widget.ConstraintLayout
-import androidx.lifecycle.Lifecycle
-import androidx.lifecycle.LifecycleOwner
-import androidx.lifecycle.LifecycleRegistry
-import com.core.filterframe.databinding.FrameFilterViewBinding
 import com.core.filterframe.adapter.FrameRatioAdapter
 import com.core.filterframe.adapter.NumberOfPhotosAdapter
+import com.core.filterframe.databinding.FrameFilterViewBinding
 import com.core.filterframe.model.FrameFilter
 import com.core.filterframe.model.NumberOfPhotos
 import com.core.filterframe.model.RatioFilter
 
-class FrameFilterView @JvmOverloads constructor(context: Context, attrs: AttributeSet? = null) : ConstraintLayout(context, attrs), LifecycleOwner {
+class FrameFilterView @JvmOverloads constructor(context: Context, attrs: AttributeSet? = null) : ConstraintLayout(context, attrs) {
     private var binding: FrameFilterViewBinding = FrameFilterViewBinding.inflate(LayoutInflater.from(context), this, true)
-    private var numberOfPhotosAdapter: NumberOfPhotosAdapter? = null
-    private var frameRatioAdapter: FrameRatioAdapter? = null
 
     private var frameFilter = FrameFilter()
-
-    private val lifecycleRegistry = LifecycleRegistry(this)
 
     var onFrameFilterListener: OnFrameFilterListener? = null
 
@@ -46,48 +39,35 @@ class FrameFilterView @JvmOverloads constructor(context: Context, attrs: Attribu
 
         frameFilter.ratioList.addAll(rList.toMutableList())
 
-        numberOfPhotosAdapter = NumberOfPhotosAdapter(context, list, callback = { number ->
-            if (number.isSelected) {
-                frameFilter.numberList.add(number.number)
-            } else {
-                frameFilter.numberList.remove(number.number)
+        binding.run {
+            binding.rvNumberOfPhotos.adapter = NumberOfPhotosAdapter(context, list, callback = { number ->
+                if (number.isSelected) {
+                    frameFilter.numberList.add(number.number)
+                } else {
+                    frameFilter.numberList.remove(number.number)
+                }
+                onFrameFilterListener?.onFilter(frameFilter)
+            })
+
+            binding.rvRatio.adapter = FrameRatioAdapter(context, rList, callback = { ratioFilter ->
+                frameFilter.ratioList.find { it.ratio == ratioFilter.ratio }?.isSelected = ratioFilter.isSelected
+                onFrameFilterListener?.onFilter(frameFilter)
+            })
+
+            binding.imageFrameFilterClose.setOnClickListener {
+                close()
             }
-            onFrameFilterListener?.onFilter(frameFilter)
-        })
 
-        binding.rvNumberOfPhotos.adapter = numberOfPhotosAdapter
-
-        frameRatioAdapter = FrameRatioAdapter(context, rList, callback = { ratioFilter ->
-            frameFilter.ratioList.find { it.ratio == ratioFilter.ratio }?.isSelected = ratioFilter.isSelected
-            onFrameFilterListener?.onFilter(frameFilter)
-        })
-
-        binding.rvRatio.adapter = frameRatioAdapter
-
-        binding.imageFrameFilterClose.setOnClickListener {
-            close()
+            setOnClickListener {
+                // nothing
+            }
         }
-        setOnClickListener {
-            // nothing
-        }
+
         elevation = 12f
     }
 
     fun close() {
         onFrameFilterListener?.onDone()
-    }
-
-    override val lifecycle: Lifecycle
-        get() = lifecycleRegistry
-
-    override fun onAttachedToWindow() {
-        super.onAttachedToWindow()
-        lifecycleRegistry.currentState = Lifecycle.State.RESUMED
-    }
-
-    override fun onDetachedFromWindow() {
-        super.onDetachedFromWindow()
-        lifecycleRegistry.currentState = Lifecycle.State.DESTROYED
     }
 
     interface OnFrameFilterListener {
