@@ -5,15 +5,15 @@
     android:viewportHeight="50">
 
   <path
-      android:fillColor="#2aa4ea"
+      android:fillColor="@color/ff_color_ic_select_frame_category_selected"
       android:pathData="M10,10L40,10A2,2 0,0 1,42 12L42,12A2,2 0,0 1,40 14L10,14A2,2 0,0 1,8 12L8,12A2,2 0,0 1,10 10z"/>
 
   <path
-      android:fillColor="#2aa4ea"
+      android:fillColor="@color/ff_color_ic_select_frame_category_selected"
       android:pathData="M10,23L40,23A2,2 0,0 1,42 25L42,25A2,2 0,0 1,40 27L10,27A2,2 0,0 1,8 25L8,25A2,2 0,0 1,10 23z"/>
 
   <path
-      android:fillColor="#2aa4ea"
+      android:fillColor="@color/ff_color_ic_select_frame_category_selected"
       android:pathData="M10,36L40,36A2,2 0,0 1,42 38L42,38A2,2 0,0 1,40 40L10,40A2,2 0,0 1,8 38L8,38A2,2 0,0 1,10 36z"/>
 
 </vector>

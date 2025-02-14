@@ -30,7 +30,7 @@
         android:padding="10dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/ic_close_frame"/>
+        app:srcCompat="@drawable/ff__ic_close_frame"/>
 
     <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/tvNumberOfPhotos"

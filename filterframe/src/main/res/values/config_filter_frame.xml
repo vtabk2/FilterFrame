@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ff_color_ic_select_frame_category">#ffffff</color>
+    <color name="ff_color_ic_select_frame_category_selected">#2aa4ea</color>
+
+    <drawable name="ff_ic_close_frame">@drawable/ff__ic_close_frame</drawable>
+    <drawable name="ff_image_no_frame_filter">@drawable/ff__image_no_frame_filter</drawable>
+</resources>
