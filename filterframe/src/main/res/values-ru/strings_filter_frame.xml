@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Категория</string>
+  <string name="ratio">Соотношение</string>
+  <string name="filter">Фильтр</string>
+  <string name="text_others">Другие</string>
+  <string name="text_number_of_photos">Количество фотографий</string>
+  <string name="msg_frame_filter_no_data">Упс! Рамки не найдены. Попробуйте ниже, чтобы найти сюрпризы!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Kategooria</string>
+  <string name="ratio">Suhe</string>
+  <string name="filter">Filter</string>
+  <string name="text_others">teised</string>
+  <string name="text_number_of_photos">Fotode arv</string>
+  <string name="msg_frame_filter_no_data">Oih! Raame ei leitud. Proovige neid allpool, et leida üllatusi!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">ປະເພດ</string>
+  <string name="ratio">ອັດຕາສ່ວນ</string>
+  <string name="filter">ການກັ່ນຕອງ</string>
+  <string name="text_others">ອື່ນໆ</string>
+  <string name="text_number_of_photos">ຈໍານວນຮູບ</string>
+  <string name="msg_frame_filter_no_data">ອຸຍ! ບໍ່ພົບເຟຣມ. ລອງສິ່ງເຫຼົ່ານີ້ຂ້າງລຸ່ມນີ້ເພື່ອຊອກຫາຄວາມແປກໃຈບາງຢ່າງ!</string>
+</resources>

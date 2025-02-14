@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">ប្រភេទ</string>
+  <string name="ratio">សមាមាត្រ</string>
+  <string name="filter">តម្រង</string>
+  <string name="text_others">ផ្សេងៗ</string>
+  <string name="text_number_of_photos">ចំនួនរូបថត</string>
+  <string name="msg_frame_filter_no_data">ឱ! រកមិនឃើញស៊ុមទេ។ សាកល្បង​វិធី​ខាង​ក្រោម​នេះ​ដើម្បី​ស្វែង​រក​ភាព​ភ្ញាក់​ផ្អើល!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Kāwai</string>
+  <string name="ratio">ōwehenga</string>
+  <string name="filter">Tātari</string>
+  <string name="text_others">Ko etahi atu</string>
+  <string name="text_number_of_photos">Te maha o nga whakaahua</string>
+  <string name="msg_frame_filter_no_data">Aue! Karekau he papa i kitea. Whakamātauria i raro nei kia kitea etahi ohorere!</string>
+</resources>

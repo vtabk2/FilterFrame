@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">زمرہ</string>
+  <string name="ratio">تناسب</string>
+  <string name="filter">فلٹر</string>
+  <string name="text_others">دوسرے</string>
+  <string name="text_number_of_photos">تصاویر کی تعداد</string>
+  <string name="msg_frame_filter_no_data">افوہ! کوئی فریم نہیں ملا۔ کچھ حیرتیں تلاش کرنے کے لئے ذیل میں ان کو آزمائیں!</string>
+</resources>

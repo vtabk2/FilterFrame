@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">ਸ਼੍ਰੇਣੀ</string>
+  <string name="ratio">ਅਨੁਪਾਤ</string>
+  <string name="filter">ਫਿਲਟਰ</string>
+  <string name="text_others">ਹੋਰ</string>
+  <string name="text_number_of_photos">ਫੋਟੋਆਂ ਦੀ ਗਿਣਤੀ</string>
+  <string name="msg_frame_filter_no_data">ਓਹ! ਕੋਈ ਫਰੇਮ ਨਹੀਂ ਮਿਲਿਆ। ਕੁਝ ਹੈਰਾਨੀਜਨਕ ਚੀਜ਼ਾਂ ਲੱਭਣ ਲਈ ਹੇਠਾਂ ਦਿੱਤੇ ਇਹਨਾਂ ਨੂੰ ਅਜ਼ਮਾਓ!</string>
+</resources>

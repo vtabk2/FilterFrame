@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">범주</string>
+  <string name="ratio">비율</string>
+  <string name="filter">필터</string>
+  <string name="text_others">기타</string>
+  <string name="text_number_of_photos">사진의 수</string>
+  <string name="msg_frame_filter_no_data">앗! 프레임을 찾을 수 없습니다. 아래를 시도하여 놀라움을 찾아보세요!</string>
+</resources>

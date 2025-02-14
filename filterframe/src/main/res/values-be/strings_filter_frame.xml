@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Катэгорыя</string>
+  <string name="ratio">Суадносіны</string>
+  <string name="filter">Фільтраваць</string>
+  <string name="text_others">Іншыя</string>
+  <string name="text_number_of_photos">Колькасць фатаграфій</string>
+  <string name="msg_frame_filter_no_data">Ой! Рамкі не знойдзены. Паспрабуйце гэтыя ніжэй, каб знайсці сюрпрызы!</string>
+</resources>

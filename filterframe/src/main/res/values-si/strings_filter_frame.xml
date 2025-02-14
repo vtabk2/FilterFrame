@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">ප්රවර්ගය</string>
+  <string name="ratio">අනුපාතය</string>
+  <string name="filter">පෙරහන</string>
+  <string name="text_others">අන් අය</string>
+  <string name="text_number_of_photos">ඡායාරූප ගණන</string>
+  <string name="msg_frame_filter_no_data">අපොයි! රාමු හමු නොවීය. සමහර පුදුම සොයා ගැනීමට පහත මේවා උත්සාහ කරන්න!</string>
+</resources>

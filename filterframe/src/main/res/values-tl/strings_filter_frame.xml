@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Kategorya</string>
+  <string name="ratio">ratio</string>
+  <string name="filter">Salain</string>
+  <string name="text_others">Iba</string>
+  <string name="text_number_of_photos">Bilang ng mga larawan</string>
+  <string name="msg_frame_filter_no_data">Oops! Walang nakitang mga frame. Subukan ang mga ito sa ibaba upang makahanap ng ilang mga sorpresa!</string>
+</resources>

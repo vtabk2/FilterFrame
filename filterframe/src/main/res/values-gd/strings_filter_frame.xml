@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Roinn-seòrsa</string>
+  <string name="ratio">Co-mheas</string>
+  <string name="filter">Criathraich</string>
+  <string name="text_others">cuid eile</string>
+  <string name="text_number_of_photos">An àireamh de dhealbhan</string>
+  <string name="msg_frame_filter_no_data">Oich! Cha deach frèamaichean a lorg. Feuch iad seo gu h-ìosal gus beagan iongnadh a lorg!</string>
+</resources>

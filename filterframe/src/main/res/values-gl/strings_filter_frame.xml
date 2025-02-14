@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Categoría</string>
+  <string name="ratio">Ratio</string>
+  <string name="filter">Filtro</string>
+  <string name="text_others">Outros</string>
+  <string name="text_number_of_photos">Número de fotos</string>
+  <string name="msg_frame_filter_no_data">Vaia! Non se atoparon marcos. Proba estes a continuación para atopar algunhas sorpresas!</string>
+</resources>

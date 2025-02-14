@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Kategoria</string>
+  <string name="ratio">Stosunek</string>
+  <string name="filter">Filtr</string>
+  <string name="text_others">Inni</string>
+  <string name="text_number_of_photos">Liczba zdjęć</string>
+  <string name="msg_frame_filter_no_data">Ups! Nie znaleziono żadnych ramek. Wypróbuj poniższe, aby znaleźć kilka niespodzianek!</string>
+</resources>

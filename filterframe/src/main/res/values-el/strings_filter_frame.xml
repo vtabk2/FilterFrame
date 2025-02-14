@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Κατηγορία</string>
+  <string name="ratio">Αναλογία</string>
+  <string name="filter">Φίλτρο</string>
+  <string name="text_others">Άλλοι</string>
+  <string name="text_number_of_photos">Αριθμός φωτογραφιών</string>
+  <string name="msg_frame_filter_no_data">Ωχ! Δεν βρέθηκαν πλαίσια. Δοκιμάστε τα παρακάτω για να βρείτε μερικές εκπλήξεις!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">വിഭാഗം</string>
+  <string name="ratio">അനുപാതം</string>
+  <string name="filter">ഫിൽട്ടർ</string>
+  <string name="text_others">മറ്റുള്ളവ</string>
+  <string name="text_number_of_photos">ഫോട്ടോകളുടെ എണ്ണം</string>
+  <string name="msg_frame_filter_no_data">ശ്ശോ! ഫ്രെയിമുകളൊന്നും കണ്ടെത്തിയില്ല. ചില അത്ഭുതങ്ങൾ കണ്ടെത്താൻ താഴെയുള്ളവ പരീക്ഷിച്ചു നോക്കൂ!</string>
+</resources>

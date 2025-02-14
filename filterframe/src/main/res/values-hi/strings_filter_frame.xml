@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">वर्ग</string>
+  <string name="ratio">अनुपात</string>
+  <string name="filter">फ़िल्टर</string>
+  <string name="text_others">अन्य</string>
+  <string name="text_number_of_photos">फ़ोटो की संख्या</string>
+  <string name="msg_frame_filter_no_data">ओह! कोई फ़्रेम नहीं मिला। कुछ आश्चर्य खोजने के लिए नीचे दिए गए इन फ़्रेम को आज़माएँ!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Kategorija</string>
+  <string name="ratio">Attiecība</string>
+  <string name="filter">Filtrs</string>
+  <string name="text_others">Citi</string>
+  <string name="text_number_of_photos">Fotogrāfiju skaits</string>
+  <string name="msg_frame_filter_no_data">Hmm! Nav atrasts neviens ietvars. Izmēģiniet tos tālāk, lai atrastu dažus pārsteigumus!</string>
+</resources>

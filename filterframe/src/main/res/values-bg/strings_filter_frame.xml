@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Категория</string>
+  <string name="ratio">Съотношение</string>
+  <string name="filter">Филтър</string>
+  <string name="text_others">други</string>
+  <string name="text_number_of_photos">Брой снимки</string>
+  <string name="msg_frame_filter_no_data">Опа! Няма намерени рамки. Опитайте тези по-долу, за да намерите някои изненади!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Kategori</string>
+  <string name="ratio">Oran</string>
+  <string name="filter">Filtre</string>
+  <string name="text_others">Diğerleri</string>
+  <string name="text_number_of_photos">Fotoğraf sayısı</string>
+  <string name="msg_frame_filter_no_data">Oops! Hiçbir çerçeve bulunamadı. Aşağıdakileri deneyin ve bazı sürprizler bulun!</string>
+</resources>

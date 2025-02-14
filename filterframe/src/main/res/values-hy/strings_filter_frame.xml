@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Կարգավիճակ</string>
+  <string name="ratio">Հարաբերակցություն</string>
+  <string name="filter">Զտել</string>
+  <string name="text_others">Մյուսները</string>
+  <string name="text_number_of_photos">Լուսանկարների քանակը</string>
+  <string name="msg_frame_filter_no_data">Վա՜յ Շրջանակներ չեն գտնվել: Փորձեք ստորև՝ որոշ անակնկալներ գտնելու համար:</string>
+</resources>

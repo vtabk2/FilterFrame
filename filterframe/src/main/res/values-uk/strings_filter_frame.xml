@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Категорія</string>
+  <string name="ratio">співвідношення</string>
+  <string name="filter">фільтр</string>
+  <string name="text_others">інші</string>
+  <string name="text_number_of_photos">Кількість фотографій</string>
+  <string name="msg_frame_filter_no_data">Ой! Фреймів не знайдено. Спробуйте це нижче, щоб знайти сюрпризи!</string>
+</resources>

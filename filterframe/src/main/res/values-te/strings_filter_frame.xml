@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">వర్గం</string>
+  <string name="ratio">నిష్పత్తి</string>
+  <string name="filter">ఫిల్టర్</string>
+  <string name="text_others">ఇతరులు</string>
+  <string name="text_number_of_photos">ఫోటోల సంఖ్య</string>
+  <string name="msg_frame_filter_no_data">అయ్యో! ఫ్రేమ్‌లు ఏవీ కనుగొనబడలేదు. కొన్ని ఆశ్చర్యాలను కనుగొనడానికి క్రింద ఉన్న వీటిని ప్రయత్నించండి!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Kategorie</string>
+  <string name="ratio">Poměr</string>
+  <string name="filter">Filtr</string>
+  <string name="text_others">Ostatní</string>
+  <string name="text_number_of_photos">Počet fotografií</string>
+  <string name="msg_frame_filter_no_data">Jejda! Nebyly nalezeny žádné snímky. Zkuste to níže, abyste našli nějaké překvapení!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">קָטֵגוֹרִיָה</string>
+  <string name="ratio">יַחַס</string>
+  <string name="filter">לְסַנֵן</string>
+  <string name="text_others">אחרים</string>
+  <string name="text_number_of_photos">מספר תמונות</string>
+  <string name="msg_frame_filter_no_data">אופס! לא נמצאו מסגרות. נסה את אלה למטה כדי למצוא כמה הפתעות!</string>
+</resources>

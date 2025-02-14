@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Категория</string>
+  <string name="ratio">Пропорция</string>
+  <string name="filter">Фильтр</string>
+  <string name="text_others">Башкалар</string>
+  <string name="text_number_of_photos">Сүрөттөрдүн саны</string>
+  <string name="msg_frame_filter_no_data">Ой! Эч алкак табылган жок. Кээ бир сюрприздерди табуу үчүн төмөндөгүлөрдү байкап көрүңүз!</string>
+</resources>

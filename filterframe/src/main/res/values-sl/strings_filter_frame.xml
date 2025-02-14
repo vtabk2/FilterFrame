@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Kategorija</string>
+  <string name="ratio">Razmerje</string>
+  <string name="filter">Filter</string>
+  <string name="text_others">drugi</string>
+  <string name="text_number_of_photos">Število fotografij</string>
+  <string name="msg_frame_filter_no_data">Ups! Ni okvirjev. Preizkusite te spodaj in poiščite nekaj presenečenj!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Categori</string>
+  <string name="ratio">Cymhareb</string>
+  <string name="filter">Hidlo</string>
+  <string name="text_others">Eraill</string>
+  <string name="text_number_of_photos">Nifer o luniau</string>
+  <string name="msg_frame_filter_no_data">Wps! Heb ganfod fframiau. Rhowch gynnig ar y rhain isod i ddod o hyd i rai syrpreis!</string>
+</resources>

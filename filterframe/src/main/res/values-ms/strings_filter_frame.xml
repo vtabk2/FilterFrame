@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">kategori</string>
+  <string name="ratio">Nisbah</string>
+  <string name="filter">Penapis</string>
+  <string name="text_others">Lain-lain</string>
+  <string name="text_number_of_photos">Bilangan foto</string>
+  <string name="msg_frame_filter_no_data">Aduh! Tiada bingkai ditemui. Cuba ini di bawah untuk mencari beberapa kejutan!</string>
+</resources>

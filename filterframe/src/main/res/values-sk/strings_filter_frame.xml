@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Kategória</string>
+  <string name="ratio">Pomer</string>
+  <string name="filter">Filter</string>
+  <string name="text_others">Iní</string>
+  <string name="text_number_of_photos">Počet fotografií</string>
+  <string name="msg_frame_filter_no_data">Ojoj! Nenašli sa žiadne rámy. Vyskúšajte tieto nižšie a nájdite nejaké prekvapenia!</string>
+</resources>

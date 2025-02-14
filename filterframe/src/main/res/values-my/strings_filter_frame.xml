@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">အမျိုးအစား</string>
+  <string name="ratio">အချိုးအစား</string>
+  <string name="filter">ဇကာ</string>
+  <string name="text_others">တခြားသူတွေ</string>
+  <string name="text_number_of_photos">ဓာတ်ပုံအရေအတွက်</string>
+  <string name="msg_frame_filter_no_data">သည်းခံပါ ဖရိမ်များမတွေ့ပါ။ အံ့အားသင့်စရာအချို့ကို ရှာဖွေရန် အောက်ပါတို့ကို စမ်းကြည့်ပါ။</string>
+</resources>

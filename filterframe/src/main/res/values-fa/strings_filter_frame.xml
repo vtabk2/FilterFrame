@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">دسته بندی</string>
+  <string name="ratio">نسبت</string>
+  <string name="filter">فیلتر کنید</string>
+  <string name="text_others">دیگران</string>
+  <string name="text_number_of_photos">تعداد عکس ها</string>
+  <string name="msg_frame_filter_no_data">اوه! هیچ فریمی پیدا نشد این موارد زیر را امتحان کنید تا سورپرایز پیدا کنید!</string>
+</resources>

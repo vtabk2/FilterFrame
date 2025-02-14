@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">קאַטעגאָריע</string>
+  <string name="ratio">פאַרהעלטעניש</string>
+  <string name="filter">פילטער</string>
+  <string name="text_others">אנדערע</string>
+  <string name="text_number_of_photos">נומער פון פאָטאָס</string>
+  <string name="msg_frame_filter_no_data">אופס! קיין ראָמען געפונען. פּרוּווט די אונטן צו געפֿינען עטלעכע סאַפּרייזיז!</string>
+</resources>

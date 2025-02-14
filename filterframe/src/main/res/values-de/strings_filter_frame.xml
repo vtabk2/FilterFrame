@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Kategorie</string>
+  <string name="ratio">Verhältnis</string>
+  <string name="filter">Filter</string>
+  <string name="text_others">Sonstiges</string>
+  <string name="text_number_of_photos">Anzahl der Fotos</string>
+  <string name="msg_frame_filter_no_data">Hoppla! Keine Frames gefunden. Probieren Sie die folgenden aus, um einige Überraschungen zu erleben!</string>
+</resources>

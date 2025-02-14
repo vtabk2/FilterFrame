@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">வகை</string>
+  <string name="ratio">விகிதம்</string>
+  <string name="filter">வடிகட்டி</string>
+  <string name="text_others">மற்றவைகள்</string>
+  <string name="text_number_of_photos">புகைப்படங்களின் எண்ணிக்கை</string>
+  <string name="msg_frame_filter_no_data">அச்சச்சோ! எந்த பிரேம்களும் கிடைக்கவில்லை. சில ஆச்சரியங்களைக் கண்டுபிடிக்க கீழே உள்ளவற்றை முயற்சிக்கவும்!</string>
+</resources>

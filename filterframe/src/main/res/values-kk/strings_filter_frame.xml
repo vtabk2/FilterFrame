@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Санат</string>
+  <string name="ratio">Қатынас</string>
+  <string name="filter">Сүзгі</string>
+  <string name="text_others">Басқалар</string>
+  <string name="text_number_of_photos">Фотосуреттер саны</string>
+  <string name="msg_frame_filter_no_data">Ой! Ешқандай жақтау табылмады. Кейбір тосын сыйларды табу үшін төмендегілерді қолданып көріңіз!</string>
+</resources>

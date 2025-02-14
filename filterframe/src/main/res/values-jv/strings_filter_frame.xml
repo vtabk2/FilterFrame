@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">kategori</string>
+  <string name="ratio">rasio</string>
+  <string name="filter">Nyaring</string>
+  <string name="text_others">liyane</string>
+  <string name="text_number_of_photos">Jumlah foto</string>
+  <string name="msg_frame_filter_no_data">Adhuh! Ora ana pigura sing ditemokake. Coba iki ing ngisor iki kanggo nemokake sawetara surprises!</string>
+</resources>

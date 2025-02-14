@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Catagóir</string>
+  <string name="ratio">Cóimheas</string>
+  <string name="filter">Scagaire</string>
+  <string name="text_others">Daoine eile</string>
+  <string name="text_number_of_photos">Líon grianghraf</string>
+  <string name="msg_frame_filter_no_data">Úps! Níor aimsíodh frámaí. Bain triail as seo thíos chun roinnt iontas a fháil!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">类别</string>
+  <string name="ratio">比率</string>
+  <string name="filter">筛选</string>
+  <string name="text_others">其他的</string>
+  <string name="text_number_of_photos">照片数量</string>
+  <string name="msg_frame_filter_no_data">哎呀！未找到任何框架。尝试以下这些来寻找一些惊喜吧！</string>
+</resources>

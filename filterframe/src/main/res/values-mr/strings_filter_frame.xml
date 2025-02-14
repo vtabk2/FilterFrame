@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">श्रेणी</string>
+  <string name="ratio">प्रमाण</string>
+  <string name="filter">फिल्टर करा</string>
+  <string name="text_others">इतर</string>
+  <string name="text_number_of_photos">फोटोंची संख्या</string>
+  <string name="msg_frame_filter_no_data">अरेरे! फ्रेम सापडल्या नाहीत. काही आश्चर्यांसाठी खालील गोष्टी वापरून पहा!</string>
+</resources>

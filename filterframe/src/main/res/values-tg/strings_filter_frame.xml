@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Категория</string>
+  <string name="ratio">Таносуб</string>
+  <string name="filter">Филтр</string>
+  <string name="text_others">Дигарон</string>
+  <string name="text_number_of_photos">Шумораи аксҳо</string>
+  <string name="msg_frame_filter_no_data">Оҳ! Ягон чаҳорчӯба ёфт нашуд. Инҳоро дар зер санҷед, то сюрпризҳоро пайдо кунед!</string>
+</resources>

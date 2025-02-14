@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Kategória</string>
+  <string name="ratio">Hányados</string>
+  <string name="filter">Szűrő</string>
+  <string name="text_others">Mások</string>
+  <string name="text_number_of_photos">Fényképek száma</string>
+  <string name="msg_frame_filter_no_data">Hoppá! Nem található keret. Próbáld ki ezeket az alábbiakban, hogy meglepetéseket találj!</string>
+</resources>

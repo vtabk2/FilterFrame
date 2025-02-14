@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Sokajy</string>
+  <string name="ratio">Taham</string>
+  <string name="filter">Sivana</string>
+  <string name="text_others">Ny hafa</string>
+  <string name="text_number_of_photos">Isan\'ny sary</string>
+  <string name="msg_frame_filter_no_data">Oops! Tsy hita ny frame. Andramo ireto eto ambany ireto raha te hahita zavatra tsy ampoizina!</string>
+</resources>

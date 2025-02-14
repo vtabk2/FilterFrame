@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Kateqoriya</string>
+  <string name="ratio">Nisbət</string>
+  <string name="filter">Filtr</string>
+  <string name="text_others">Digərləri</string>
+  <string name="text_number_of_photos">Fotoların sayı</string>
+  <string name="msg_frame_filter_no_data">Vay! Heç bir çərçivə tapılmadı. Bəzi sürprizlər tapmaq üçün bunları aşağıda sınayın!</string>
+</resources>

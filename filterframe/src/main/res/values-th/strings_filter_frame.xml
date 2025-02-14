@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">หมวดหมู่</string>
+  <string name="ratio">อัตราส่วน</string>
+  <string name="filter">กรอง</string>
+  <string name="text_others">คนอื่น</string>
+  <string name="text_number_of_photos">จำนวนภาพถ่าย</string>
+  <string name="msg_frame_filter_no_data">อุ๊ย! ไม่พบเฟรม ลองทำตามด้านล่างนี้เพื่อค้นหาเซอร์ไพรส์!</string>
+</resources>

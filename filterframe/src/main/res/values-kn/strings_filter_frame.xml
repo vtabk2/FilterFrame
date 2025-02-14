@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">ವರ್ಗ</string>
+  <string name="ratio">ಅನುಪಾತ</string>
+  <string name="filter">ಫಿಲ್ಟರ್</string>
+  <string name="text_others">ಇತರರು</string>
+  <string name="text_number_of_photos">ಫೋಟೋಗಳ ಸಂಖ್ಯೆ</string>
+  <string name="msg_frame_filter_no_data">ಓಹ್! ಯಾವುದೇ ಫ್ರೇಮ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ. ಕೆಲವು ಅಚ್ಚರಿಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕೆಳಗಿನವುಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ!</string>
+</resources>

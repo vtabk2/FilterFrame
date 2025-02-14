@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Udidi</string>
+  <string name="ratio">Umlinganiselo</string>
+  <string name="filter">Hluza</string>
+  <string name="text_others">Abanye</string>
+  <string name="text_number_of_photos">Inani leefoto</string>
+  <string name="msg_frame_filter_no_data">Yhu! Akukho zakhelo zifunyenweyo. Zama ezi zingezantsi ukuze ufumane ezothusayo!</string>
+</resources>

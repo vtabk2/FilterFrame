@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="text_category">Kategori</string>
+  <string name="ratio">Förhållande</string>
+  <string name="filter">Filtrera</string>
+  <string name="text_others">Andra</string>
+  <string name="text_number_of_photos">Antal foton</string>
+  <string name="msg_frame_filter_no_data">hoppsan! Inga ramar hittades. Prova dessa nedan för att hitta några överraskningar!</string>
+</resources>
