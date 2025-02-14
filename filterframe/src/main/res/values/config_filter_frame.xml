@@ -5,4 +5,8 @@
 
     <drawable name="ff_ic_close_frame">@drawable/ff__ic_close_frame</drawable>
     <drawable name="ff_image_no_frame_filter">@drawable/ff__image_no_frame_filter</drawable>
+    <drawable name="ff_ic_select_frame_category">@drawable/ff__ic_select_frame_category</drawable>
+    <drawable name="ff_ic_select_frame_category_selected">@drawable/ff__ic_select_frame_category_selected</drawable>
+    <drawable name="ff_ratio_frame">@drawable/ff__ratio_frame</drawable>
+    <drawable name="ff_ratio_frame_selected">@drawable/ff__ratio_frame_selected</drawable>
 </resources>
