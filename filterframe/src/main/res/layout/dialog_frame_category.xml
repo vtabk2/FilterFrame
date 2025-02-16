@@ -51,13 +51,13 @@
             app:tag_layout_horizontal_interval="10dp"
             app:tag_layout_mode="single_choice"
             app:tag_layout_vertical_interval="10dp"
-            app:tag_view_bg_color="#EBEBEB"
-            app:tag_view_bg_color_check="#2aa4ea"
+            app:tag_view_bg_color="@color/ff_tag_view_bg_color"
+            app:tag_view_bg_color_check="@color/ff_tag_view_bg_color_check"
             app:tag_view_border_radius="25dp"
             app:tag_view_border_width="0dp"
             app:tag_view_horizontal_padding="12dp"
-            app:tag_view_text_color="#0B0B0B"
-            app:tag_view_text_color_check="@android:color/white"
+            app:tag_view_text_color="@color/ff_tag_view_text_color"
+            app:tag_view_text_color_check="@color/ff_tag_view_text_color_check"
             app:tag_view_text_size="14sp"
             app:tag_view_vertical_padding="7dp"/>
     </androidx.core.widget.NestedScrollView>
