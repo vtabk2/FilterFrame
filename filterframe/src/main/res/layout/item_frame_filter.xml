@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="11dp"
         android:text="@string/msg_frame_filter_no_data"
-        android:textColor="#ffffff"
+        android:textColor="@color/ff_color_msg_frame_filter_no_data"
         android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="@id/imageNoFrameFilter"
         app:layout_constraintEnd_toEndOf="parent"

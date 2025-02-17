@@ -16,6 +16,7 @@
     <color name="ff_color_background_item_number_selected">#2aa4ea</color>
     <color name="ff_color_background_ratio_frame">#EBEBEB</color>
     <color name="ff_color_background_ratio_frame_selected">#2aa4ea</color>
+    <color name="ff_color_msg_frame_filter_no_data">#ffffff</color>
 
     <drawable name="ff_ic_close_frame">@drawable/ff__ic_close_frame</drawable>
     <drawable name="ff_image_no_frame_filter">@drawable/ff__image_no_frame_filter</drawable>
