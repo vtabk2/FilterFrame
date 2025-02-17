@@ -2,6 +2,8 @@
 <resources>
     <color name="ff_color_ic_select_frame_category">#ffffff</color>
     <color name="ff_color_ic_select_frame_category_selected">#2aa4ea</color>
+    <color name="ff_color_ic_ratio_frame">#ffffff</color>
+    <color name="ff_color_ic_ratio_frame_selected">#2aa4ea</color>
     <color name="ff_tag_view_bg_color">#EBEBEB</color>
     <color name="ff_tag_view_bg_color_check">#2aa4ea</color>
     <color name="ff_tag_view_text_color">#2aa4ea</color>
@@ -19,6 +21,6 @@
     <drawable name="ff_image_no_frame_filter">@drawable/ff__image_no_frame_filter</drawable>
     <drawable name="ff_ic_select_frame_category">@drawable/ff__ic_select_frame_category</drawable>
     <drawable name="ff_ic_select_frame_category_selected">@drawable/ff__ic_select_frame_category_selected</drawable>
-    <drawable name="ff_ratio_frame">@drawable/ff__ratio_frame</drawable>
-    <drawable name="ff_ratio_frame_selected">@drawable/ff__ratio_frame_selected</drawable>
+    <drawable name="ff_ratio_frame">@drawable/ff_ic_ratio_frame</drawable>
+    <drawable name="ff_ratio_frame_selected">@drawable/ff_ic_ratio_frame_selected</drawable>
 </resources>
