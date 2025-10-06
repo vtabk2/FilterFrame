@@ -15,7 +15,7 @@ dependencyResolutionManagement {
 **Step 2.** Add the dependency
 ```css
 dependencies {
-	        implementation 'com.github.vtabk2:FilterFrame:1.0.5'
+	        implementation 'com.github.vtabk2:FilterFrame:1.0.6'
 	}
 ```
 
@@ -49,3 +49,10 @@ dependencies {
     <drawable name="ff_ratio_frame_selected">@drawable/ff_ic_ratio_frame_selected</drawable>
 </resources>
 ```
+
+# Lịch sử cập nhật
+
+Version 1.0.6
+
+- Thêm tính năng hideNavigationBar
+- Cập nhật lib lên target 35, min 24 
