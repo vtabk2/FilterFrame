@@ -6,12 +6,10 @@ plugins {
 
 android {
     namespace = "com.core.filterframe"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
-        minSdk = 21
-
-        vectorDrawables.useSupportLibrary = true
+        minSdk = 24
     }
 
     buildTypes {
@@ -53,7 +51,6 @@ dependencies {
     /*animation*/
     implementation(libs.lottie)
 
-    implementation (libs.androidx.activity.ktx)
     implementation (libs.androidx.fragment.ktx)
     implementation (libs.androidx.lifecycle.extensions)
     implementation (libs.flexbox)

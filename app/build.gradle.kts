@@ -5,12 +5,13 @@ plugins {
 
 android {
     namespace = "com.gs.filterframe"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.gs.filterframe"
-        minSdk = 21
-        targetSdk = 34
+        minSdk = 24
+        targetSdk = 35
+
         versionCode = 1
         versionName = "1.0.0"
     }
